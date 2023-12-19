@@ -129,7 +129,6 @@ if ENV:
     ARQ_API_URL = "http://arq.hamker.dev"
     ARQ_API_KEY = "TOLQEZ-MXUHFY-TGZYMK-YNBZCC-ARQ"
     AI_API_KEY = os.environ.get("AI_API_KEY", None)
-
     ALLOW_CHATS = os.environ.get("ALLOW_CHATS", True)
 
     try:
